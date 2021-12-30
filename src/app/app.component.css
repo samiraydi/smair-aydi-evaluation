@@ -1,0 +1,17 @@
+.htitle{
+    text-align: center;
+    margin-top: 3%;
+}
+.mat-drawer-content {
+    position: relative;
+    z-index: 1;
+    display: block;
+    height: 100vh;
+    overflow: auto;
+}
+.addMar{
+    margin-right:10px ;
+}
+.error{
+    color:red;
+}
